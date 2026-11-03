@@ -1,0 +1,1 @@
+"""VibeCheck AI application package."""
